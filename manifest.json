@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "version": "2026-W40",
+  "region": "antalya",
+  "generated_at": "2026-09-28T17:06:04Z",
+  "source": "OpenStreetMap (Geofabrik turkey-latest, bbox 29.20,35.95,32.70,37.60)",
+  "source_version": "2026-09-27T20:23:36Z",
+  "file": "roaddb-antalya-2026-W40.db.gz",
+  "size_gz": 25657569,
+  "sha256_gz": "49175ccf7ac43639140fe1c399d95a98af1b08a4866ac44a901992ab91aa63da",
+  "db_file": "roaddb-antalya-2026-W40.db",
+  "size_db": 77586432,
+  "sha256_db": "e47faeeb132fdb292a226ea61ced3dd2567053b334228dd2e13222e6a623f13a",
+  "license": "ODbL 1.0",
+  "attribution": "© OpenStreetMap katkıda bulunanlar (openstreetmap.org/copyright)"
+}

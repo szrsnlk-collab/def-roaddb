@@ -1,0 +1,33 @@
+{
+  "region": "antalya",
+  "version": "2026-W40",
+  "nodes": 180782,
+  "edges": 242785,
+  "ways": 107065,
+  "restrictions": 344,
+  "pois": 1246,
+  "sqlite_bytes": 77586432,
+  "gzip_bytes": 25657569,
+  "build_seconds": 38.28,
+  "gzip_seconds": 12.27,
+  "query_near_50m": {
+    "queries": 300,
+    "p50_ms": 0.379,
+    "p95_ms": 0.837,
+    "max_ms": 1.264
+  },
+  "pois_by_kind": {
+    "enforcement": 1,
+    "speed_camera": 71,
+    "traffic_signals": 1174
+  },
+  "edges_bridge": 2362,
+  "edges_tunnel": 230,
+  "edges_with_layer": 2828,
+  "edges_with_lanes": 12314,
+  "edges_with_turn_lanes": 27,
+  "edges_with_maxspeed": 8387,
+  "restrictions_resolved": 289,
+  "peak_memory_mb": 835.7,
+  "process_wall_clock": "0:51.66"
+}
